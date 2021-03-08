@@ -56,7 +56,7 @@ Created Migration: 2020_10_21_152543_create_foo_table
 
 ## Requisitos de desenvolvimento ##
 - [Postman](https://www.getpostman.com/downloads/) - Utilizar esta collection / documentaçao: 
-https://documenter.getpostman.com/view/10158358/TVYC8z5X
+https://documenter.getpostman.com/view/10158358/Tz5m8fKu
 - Utilizar biblioteca: [laravel-responder](https://github.com/flugger/laravel-responder)
 - Utilizar biblioteca: [jwt-auth](https://jwt-auth.readthedocs.io/en/develop/laravel-installation/) 
 
